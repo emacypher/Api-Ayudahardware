@@ -1,0 +1,74 @@
+{
+    "INTEL Socket": [{
+            "name": "Asrock Z390 Steel Legend",
+            "Socket(s)": "1x LGA 1151",
+            "Form Factor": "ATX",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4266 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1200",
+            "SATA3": "6"
+
+        },
+        {
+            "name": "Gigabyte Z390 Aorus Xtreme Waterforce 5G",
+            "Socket(s)": "1x LGA 1151",
+            "Form Factor": "E-ATX",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4400 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "6"
+        },
+        {
+            "name": "EVGA Z390 Dark",
+            "Socket(s)": " 1x LGA 1151",
+            "Form Factor": " E-ATX",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4600 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "8"
+        },
+        {
+            "name": "Asrock Z390 Phantom Gaming X",
+            "Socket(s)": "1x LGA 1151",
+            "Form Factor": "ATX",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4266 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "8"
+        },
+        {
+            "name": "Asrock Z390 Phantom Gaming 7",
+            "Socket(s)": "1x LGA 1151",
+            "Form Factor": "ATX",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4300 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "8"
+        },
+        {
+            "name": "Supermicro C9Z390-PGW",
+            "Socket(s)": "1x LGA 1151",
+            "Form Factor": "ATX",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4000 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "6"
+        },
+        {
+            "name": "Asrock Z390 Phantom Gaming 4S",
+            "Socket(s)": "1x LGA 1151",
+            "Form Factor": "Intel Z390",
+            "Chipset": "Intel Z390",
+            "RAM": "4x DDR4 @ 4300 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1200",
+            "SATA3": "6"
+        }
+    ]
+}

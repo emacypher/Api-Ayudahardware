@@ -1,0 +1,504 @@
+{
+    "gpu": [
+        {
+            "Product_Name": "GeForce RTX 3090",
+            "GPU_Chip": "GA102",
+            "Released": "Sep 1st, 2020",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "24 GB, GDDR6X, 384 bit",
+            "GPU_clock": "1395 MHz",
+            "Memory_clock": "1219 MHz",
+            "Shaders_TMUs_ROPs": "10496 / 328 / 112"
+        },
+        {
+            "Product_Name": "GeForce GTX 1050 Ti",
+            "GPU_Chip": "GP107",
+            "Released": "Oct 25th, 2016",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "4 GB, GDDR5, 128 bit",
+            "GPU_clock": "1291 MHz",
+            "Memory_clock": "1752 MHz",
+            "Shaders_TMUs_ROPs": "768 / 48 / 32"
+        },
+        {
+            "Product_Name": "GeForce RTX 3060",
+            "GPU_Chip": "GA106",
+            "Released": "Jan 12th, 2021",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "12 GB, GDDR6, 192 bit",
+            "GPU_clock": "1320 MHz",
+            "Memory_clock": "1875 MHz",
+            "Shaders_TMUs_ROPs": "3584 / 112 / 48"
+        },
+        {
+            "Product_Name": "GeForce RTX 3080",
+            "GPU_Chip": "GA102",
+            "Released": "Sep 1st, 2020",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "10 GB, GDDR6X, 320 bit",
+            "GPU_clock": "1440 MHz",
+            "Memory_clock": "1188 MHz",
+            "Shaders_TMUs_ROPs": "8704 / 272 / 96"
+        },
+        {
+            "Product_Name": "GeForce RTX 3070",
+            "GPU_Chip": "GA104",
+            "Released": "Sep 1st, 2020",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "8 GB, GDDR6, 256 bit",
+            "GPU_clock": "1500 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "5888 / 184 / 96"
+        },
+        {
+            "Product_Name": "GeForce GTX 960",
+            "GPU_Chip": "GM206",
+            "Released": "Jan 22nd, 2015",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 128 bit",
+            "GPU_clock": "1127 MHz",
+            "Memory_clock": "1753 MHz",
+            "Shaders_TMUs_ROPs": "1024 / 64 / 32"
+        },
+        {
+            "Product_Name": "GeForce GTX 750 Ti",
+            "GPU_Chip": "GM107",
+            "Released": "Feb 18th, 2014",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 128 bit",
+            "GPU_clock": "1020 MHz",
+            "Memory_clock": "1350 MHz",
+            "Shaders_TMUs_ROPs": "640 / 40 / 16"
+        },
+        {
+            "Product_Name": "GeForce RTX 3060 Ti",
+            "GPU_Chip": "GA104",
+            "Released": "Dec 1st, 2020",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "8 GB, GDDR6, 256 bit",
+            "GPU_clock": "1410 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "4864 / 152 / 80"
+        },
+        {
+            "Product_Name": "GeForce GTX 970",
+            "GPU_Chip": "GM204",
+            "Released": "Sep 19th, 2014",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "4 GB, GDDR5, 256 bit",
+            "GPU_clock": "1050 MHz",
+            "Memory_clock": "1753 MHz",
+            "Shaders_TMUs_ROPs": "1664 / 104 / 56"
+        },
+        {
+            "Product_Name": "GeForce RTX 2060",
+            "GPU_Chip": "TU106",
+            "Released": "Jan 7th, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "6 GB, GDDR6, 192 bit",
+            "GPU_clock": "1365 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "1920 / 120 / 48"
+        },
+        {
+            "Product_Name": "Radeon RX 580",
+            "GPU_Chip": "Polaris 20",
+            "Released": "Apr 18th, 2017",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "8 GB, GDDR5, 256 bit",
+            "GPU_clock": "1257 MHz",
+            "Memory_clock": "2000 MHz",
+            "Shaders_TMUs_ROPs": "2304 / 144 / 32"
+        },
+        {
+            "Product_Name": "Radeon RX 570",
+            "GPU_Chip": "Polaris 20",
+            "Released": "Apr 18th, 2017",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "4 GB, GDDR5, 256 bit",
+            "GPU_clock": "1168 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "2048 / 128 / 32"
+        },
+        {
+            "Product_Name": "GeForce GT 1030",
+            "GPU_Chip": "GP108",
+            "Released": "May 17th, 2017",
+            "Bus": "PCIe 3.0 x4",
+            "Memory": "2 GB, GDDR5, 64 bit",
+            "GPU_clock": "1228 MHz",
+            "Memory_clock": "1502 MHz",
+            "Shaders_TMUs_ROPs": "384 / 24 / 16"
+        },
+        {
+            "Product_Name": "GeForce GTX 1650",
+            "GPU_Chip": "TU117",
+            "Released": "Apr 23rd, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "4 GB, GDDR5, 128 bit",
+            "GPU_clock": "1485 MHz",
+            "Memory_clock": "2001 MHz",
+            "Shaders_TMUs_ROPs": "896 / 56 / 32"
+        },
+        {
+            "Product_Name": "GeForce GTX 1060 6 GB",
+            "GPU_Chip": "GP106",
+            "Released": "Jul 19th, 2016",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "6 GB, GDDR5, 192 bit",
+            "GPU_clock": "1506 MHz",
+            "Memory_clock": "2002 MHz",
+            "Shaders_TMUs_ROPs": "1280 / 80 / 48"
+        },
+        {
+            "Product_Name": "GeForce GTX 1660 SUPER",
+            "GPU_Chip": "TU116",
+            "Released": "Oct 29th, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "6 GB, GDDR6, 192 bit",
+            "GPU_clock": "1530 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "1408 / 88 / 48"
+        },
+        {
+            "Product_Name": "GeForce GTX 1080 Ti",
+            "GPU_Chip": "GP102",
+            "Released": "Mar 10th, 2017",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "11 GB, GDDR5X, 352 bit",
+            "GPU_clock": "1481 MHz",
+            "Memory_clock": "1376 MHz",
+            "Shaders_TMUs_ROPs": "3584 / 224 / 88"
+        },
+        {
+            "Product_Name": "Radeon RX 6900 XT",
+            "GPU_Chip": "Navi 21",
+            "Released": "Oct 28th, 2020",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "16 GB, GDDR6, 256 bit",
+            "GPU_clock": "1825 MHz",
+            "Memory_clock": "2000 MHz",
+            "Shaders_TMUs_ROPs": "5120 / 320 / 128"
+        },
+        {
+            "Product_Name": "Radeon RX 6700 XT",
+            "GPU_Chip": "Navi 22",
+            "Released": "Mar 3rd, 2021",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "12 GB, GDDR6, 192 bit",
+            "GPU_clock": "2321 MHz",
+            "Memory_clock": "2000 MHz",
+            "Shaders_TMUs_ROPs": "2560 / 160 / 64"
+        },
+        {
+            "Product_Name": "GeForce 210",
+            "GPU_Chip": "GT218",
+            "Released": "Oct 12th, 2009",
+            "Bus": "PCIe 2.0 x16",
+            "Memory": "512 MB, DDR3, 64 bit",
+            "GPU_clock": "520 MHz",
+            "Memory_clock": "400 MHz",
+            "Shaders_TMUs_ROPs": "8/16/04"
+        },
+        {
+            "Product_Name": "GeForce GTX 1070",
+            "GPU_Chip": "GP104",
+            "Released": "Jun 10th, 2016",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "8 GB, GDDR5, 256 bit",
+            "GPU_clock": "1506 MHz",
+            "Memory_clock": "2002 MHz",
+            "Shaders_TMUs_ROPs": "1920 / 120 / 64"
+        },
+        {
+            "Product_Name": "GeForce GTX 550 Ti",
+            "GPU_Chip": "GF116",
+            "Released": "Mar 15th, 2011",
+            "Bus": "PCIe 2.0 x16",
+            "Memory": "1024 MB, GDDR5, 192 bit",
+            "GPU_clock": "900 MHz",
+            "Memory_clock": "1026 MHz",
+            "Shaders_TMUs_ROPs": "192 / 32 / 24"
+        },
+        {
+            "Product_Name": "GeForce GT 710",
+            "GPU_Chip": "GK208B",
+            "Released": "Mar 27th, 2014",
+            "Bus": "PCIe 2.0 x8",
+            "Memory": "2 GB, DDR3, 64 bit",
+            "GPU_clock": "954 MHz",
+            "Memory_clock": "900 MHz",
+            "Shaders_TMUs_ROPs": "192 / 16 / 8"
+        },
+        {
+            "Product_Name": "GeForce GTX 1050",
+            "GPU_Chip": "GP107",
+            "Released": "Oct 25th, 2016",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 128 bit",
+            "GPU_clock": "1354 MHz",
+            "Memory_clock": "1752 MHz",
+            "Shaders_TMUs_ROPs": "640 / 40 / 32"
+        },
+        {
+            "Product_Name": "GeForce GT 730",
+            "GPU_Chip": "GK208B",
+            "Released": "Jun 18th, 2014",
+            "Bus": "PCIe 2.0 x8",
+            "Memory": "1024 MB, GDDR5, 64 bit",
+            "GPU_clock": "902 MHz",
+            "Memory_clock": "1253 MHz",
+            "Shaders_TMUs_ROPs": "384 / 32 / 8"
+        },
+        {
+            "Product_Name": "GeForce GTX 1080",
+            "GPU_Chip": "GP104",
+            "Released": "May 27th, 2016",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "8 GB, GDDR5X, 256 bit",
+            "GPU_clock": "1607 MHz",
+            "Memory_clock": "1251 MHz",
+            "Shaders_TMUs_ROPs": "2560 / 160 / 64"
+        },
+        {
+            "Product_Name": "GeForce GTX 980 Ti",
+            "GPU_Chip": "GM200",
+            "Released": "Jun 2nd, 2015",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "6 GB, GDDR5, 384 bit",
+            "GPU_clock": "1000 MHz",
+            "Memory_clock": "1753 MHz",
+            "Shaders_TMUs_ROPs": "2816 / 176 / 96"
+        },
+        {
+            "Product_Name": "GeForce GTX 1650 SUPER",
+            "GPU_Chip": "TU116",
+            "Released": "Nov 22nd, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "4 GB, GDDR6, 128 bit",
+            "GPU_clock": "1530 MHz",
+            "Memory_clock": "1500 MHz",
+            "Shaders_TMUs_ROPs": "1280 / 80 / 32"
+        },
+        {
+            "Product_Name": "GeForce RTX 2080 Ti",
+            "GPU_Chip": "TU102",
+            "Released": "Sep 20th, 2018",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "11 GB, GDDR6, 352 bit",
+            "GPU_clock": "1350 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "4352 / 272 / 88"
+        },
+        {
+            "Product_Name": "GeForce GTX 1660 Ti",
+            "GPU_Chip": "TU116",
+            "Released": "Feb 22nd, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "6 GB, GDDR6, 192 bit",
+            "GPU_clock": "1500 MHz",
+            "Memory_clock": "1500 MHz",
+            "Shaders_TMUs_ROPs": "1536 / 96 / 48"
+        },
+        {
+            "Product_Name": "Radeon RX 550",
+            "GPU_Chip": "Lexa",
+            "Released": "Apr 20th, 2017",
+            "Bus": "PCIe 3.0 x8",
+            "Memory": "2 GB, GDDR5, 128 bit",
+            "GPU_clock": "1100 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "512 / 32 / 16"
+        },
+        {
+            "Product_Name": "GeForce GTX 950",
+            "GPU_Chip": "GM206",
+            "Released": "Aug 20th, 2015",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 128 bit",
+            "GPU_clock": "1024 MHz",
+            "Memory_clock": "1653 MHz",
+            "Shaders_TMUs_ROPs": "768 / 48 / 32"
+        },
+        {
+            "Product_Name": "GeForce GTX 660",
+            "GPU_Chip": "GK106",
+            "Released": "Sep 6th, 2012",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 192 bit",
+            "GPU_clock": "980 MHz",
+            "Memory_clock": "1502 MHz",
+            "Shaders_TMUs_ROPs": "960 / 80 / 24"
+        },
+        {
+            "Product_Name": "GeForce GTX 760",
+            "GPU_Chip": "GK104",
+            "Released": "Jun 25th, 2013",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 256 bit",
+            "GPU_clock": "980 MHz",
+            "Memory_clock": "1502 MHz",
+            "Shaders_TMUs_ROPs": "1152 / 96 / 32"
+        },
+        {
+            "Product_Name": "Radeon Vega 8",
+            "GPU_Chip": "Raven",
+            "Released": "Feb 12th, 2018",
+            "Bus": "IGP",
+            "Memory": "System Shared",
+            "GPU_clock": "300 MHz",
+            "Memory_clock": "System Shared",
+            "Shaders_TMUs_ROPs": "512 / 32 / 8"
+        },
+        {
+            "Product_Name": "GeForce GTX 980",
+            "GPU_Chip": "GM204",
+            "Released": "Sep 19th, 2014",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "4 GB, GDDR5, 256 bit",
+            "GPU_clock": "1127 MHz",
+            "Memory_clock": "1753 MHz",
+            "Shaders_TMUs_ROPs": "2048 / 128 / 64"
+        },
+        {
+            "Product_Name": "Radeon RX 5700 XT",
+            "GPU_Chip": "Navi 10",
+            "Released": "Jul 7th, 2019",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "8 GB, GDDR6, 256 bit",
+            "GPU_clock": "1605 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "2560 / 160 / 64"
+        },
+        {
+            "Product_Name": "GeForce RTX 3070 Ti",
+            "GPU_Chip": "GA104",
+            "Released": "May 31st, 2021",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "8 GB, GDDR6X, 256 bit",
+            "GPU_clock": "1575 MHz",
+            "Memory_clock": "1188 MHz",
+            "Shaders_TMUs_ROPs": "6144 / 192 / 96"
+        },
+        {
+            "Product_Name": "GeForce RTX 3050",
+            "GPU_Chip": "GA107",
+            "Released": "2021",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "4 GB, GDDR6, 128 bit",
+            "GPU_clock": "1545 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "2304 / 72 / 40"
+        },
+        {
+            "Product_Name": "GeForce GTX 1660",
+            "GPU_Chip": "TU116",
+            "Released": "Mar 14th, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "6 GB, GDDR5, 192 bit",
+            "GPU_clock": "1530 MHz",
+            "Memory_clock": "2001 MHz",
+            "Shaders_TMUs_ROPs": "1408 / 88 / 48"
+        },
+        {
+            "Product_Name": "Radeon RX 560",
+            "GPU_Chip": "Polaris 21",
+            "Released": "Apr 18th, 2017",
+            "Bus": "PCIe 3.0 x8",
+            "Memory": "4 GB, GDDR5, 128 bit",
+            "GPU_clock": "1175 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "1024 / 64 / 16"
+        },
+        {
+            "Product_Name": "GeForce GTS 450",
+            "GPU_Chip": "GF106",
+            "Released": "Sep 13th, 2010",
+            "Bus": "PCIe 2.0 x16",
+            "Memory": "1024 MB, GDDR5, 128 bit",
+            "GPU_clock": "783 MHz",
+            "Memory_clock": "902 MHz",
+            "Shaders_TMUs_ROPs": "192 / 32 / 16"
+        },
+        {
+            "Product_Name": "GeForce RTX 2070 SUPER",
+            "GPU_Chip": "TU104",
+            "Released": "Jul 9th, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "8 GB, GDDR6, 256 bit",
+            "GPU_clock": "1605 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "2560 / 160 / 64"
+        },
+        {
+            "Product_Name": "GeForce GTX 770",
+            "GPU_Chip": "GK104",
+            "Released": "May 30th, 2013",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "2 GB, GDDR5, 256 bit",
+            "GPU_clock": "1046 MHz",
+            "Memory_clock": "1753 MHz",
+            "Shaders_TMUs_ROPs": "1536 / 128 / 32"
+        },
+        {
+            "Product_Name": "Radeon RX 6800 XT",
+            "GPU_Chip": "Navi 21",
+            "Released": "Oct 28th, 2020",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "16 GB, GDDR6, 256 bit",
+            "GPU_clock": "1825 MHz",
+            "Memory_clock": "2000 MHz",
+            "Shaders_TMUs_ROPs": "4608 / 288 / 128"
+        },
+        {
+            "Product_Name": "GeForce RTX 2060 SUPER",
+            "GPU_Chip": "TU106",
+            "Released": "Jul 9th, 2019",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "8 GB, GDDR6, 256 bit",
+            "GPU_clock": "1470 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "2176 / 136 / 64"
+        },
+        {
+            "Product_Name": "GeForce GTX 650",
+            "GPU_Chip": "GK107",
+            "Released": "Sep 6th, 2012",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "1024 MB, GDDR5, 128 bit",
+            "GPU_clock": "1058 MHz",
+            "Memory_clock": "1250 MHz",
+            "Shaders_TMUs_ROPs": "384 / 32 / 16"
+        },
+        {
+            "Product_Name": "GeForce GTX 460",
+            "GPU_Chip": "GF104",
+            "Released": "Jul 12th, 2010",
+            "Bus": "PCIe 2.0 x16",
+            "Memory": "1024 MB, GDDR5, 256 bit",
+            "GPU_clock": "675 MHz",
+            "Memory_clock": "900 MHz",
+            "Shaders_TMUs_ROPs": "336 / 56 / 32"
+        },
+        {
+            "Product_Name": "GeForce RTX 2070",
+            "GPU_Chip": "TU106",
+            "Released": "Oct 17th, 2018",
+            "Bus": "PCIe 3.0 x16",
+            "Memory": "8 GB, GDDR6, 256 bit",
+            "GPU_clock": "1410 MHz",
+            "Memory_clock": "1750 MHz",
+            "Shaders_TMUs_ROPs": "2304 / 144 / 64"
+        },
+        {
+            "Product_Name": "GeForce RTX 3080 Ti",
+            "GPU_Chip": "GA102",
+            "Released": "May 31st, 2021",
+            "Bus": "PCIe 4.0 x16",
+            "Memory": "12 GB, GDDR6X, 384 bit",
+            "GPU_clock": "1365 MHz",
+            "Memory_clock": "1188 MHz",
+            "Shaders_TMUs_ROPs": "10240 / 320 / 112"
+        }
+    ]
+}

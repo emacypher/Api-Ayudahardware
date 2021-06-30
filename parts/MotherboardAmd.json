@@ -1,0 +1,74 @@
+{
+    "AMD Socket": [{
+            "name": "Asrock B450M Steel Legend",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "Micro-ATX",
+            "Chipset": "AMD B450",
+            "RAM": "4x DDR4 @ 3533 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC892",
+            "SATA3": "4"
+
+        },
+        {
+            "name": "Asrock B450 Steel Legend",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "ATX",
+            "Chipset": "AMD B450",
+            "RAM": "4x DDR4 @ 3533 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC892",
+            "SATA3": "4"
+        },
+        {
+            "name": "Gigabyte X570 Aorus Elite",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "ATX",
+            "Chipset": "AMD X570",
+            "RAM": "4x DDR4 @ 4000 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1200",
+            "SATA3": "6"
+        },
+        {
+            "name": "Asus ROG Strix X570-E Gaming",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "ATX",
+            "Chipset": "AMD X570",
+            "RAM": "4x DDR4 @ 3200 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "8"
+        },
+        {
+            "name": "MSI MPG X570 Gaming Plus",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "ATX",
+            "Chipset": "AMD X570",
+            "RAM": "4x DDR4 @ 4400 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "6"
+        },
+        {
+            "name": "MSI MPG X570 Gaming Pro Carbon Wifi",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "ATX",
+            "Chipset": "AMD X570",
+            "RAM": "4x DDR4 @ 4600 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC1220",
+            "SATA3": "6"
+        },
+        {
+            "name": "Asrock A320M-DVS R4.0",
+            "Socket(s)": "1x AM4",
+            "Form Factor": "Micro-ATX",
+            "Chipset": "AMD A320",
+            "RAM": "2x DDR4 @ 3200 MHz",
+            "Release Year": "2019",
+            "Audio Chip": "Realtek ALC887",
+            "SATA3": "4"
+        }
+    ]
+}
